@@ -20,7 +20,7 @@ This project is a simple Number Guessing Game implemented in Java. The game gene
 2. **Navigate to the Task Directory**:
    Navigate to the directory for Task 1:
    ```bash
-   cd CognoRise_Infotech/Task1_NumberGuessingGame
+   cd out/production/CognoRise InfoTech Tasks/Tasks/_1_NumberGuessingGame
 3. **Compile the Java Program**:
    Compile the Java file:
    ```bash
